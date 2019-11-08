@@ -4,7 +4,9 @@ title: Publication
 permalink: /Publication/
 ---
 
-Zhou, J. &amp; Venayagamoorthy, S. K. 2017 Numerical simulations of intrusive gravity currents interacting with a bottom-mounted obstacle in a continuously stratified ambient. <i>Environmental Fluid Mechanics </i>. 17, 191-209.
+
+
+<b>Zhou, J.</b> &amp; Venayagamoorthy, S. K. 2017 Numerical simulations of intrusive gravity currents interacting with a bottom-mounted obstacle in a continuously stratified ambient. <i>Environmental Fluid Mechanics </i>. 17, 191-209.
 
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
