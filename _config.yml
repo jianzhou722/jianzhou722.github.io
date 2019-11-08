@@ -20,10 +20,12 @@
 
 title: Dr. Jian Zhou
 email: jianzhou722@gmail.com
-
-Department of Civil and Environmental Engineering
-University of California, Berkeley, CA 94706, USA
-
+description: >+ # this means to ignore newlines until "baseurl:"
+  Department of Civil and Environmental Engineering
+  University of California, Berkeley
+  CA 94706, USA
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
