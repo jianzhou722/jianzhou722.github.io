@@ -5,9 +5,9 @@
 layout: home
 ---
 
-<center>Postdoctoral researcher</center>
-<center>Department of Civil and Environmental Engineering</center>
-<center>University of Californa, Berkeley</center>
+<center><b>Postdoctoral researcher</b></center>
+<center><b>Department of Civil and Environmental Engineering</b></center>
+<center><b>University of Californa, Berkeley</b></center>
 
 <br/>
 
@@ -15,5 +15,5 @@ layout: home
 <img src="/assets/img/pokemon.png" width="420">
 </p>
 
-<center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
+<center><b>Research Interests: Environmental and Geophysical Fluid Dynamics</b></center>
  
