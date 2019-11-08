@@ -11,7 +11,9 @@ layout: home
 
 <br/>
 
-![image-title-here](/assets/img/ocean2.jpg){:class="img-responsive"}
+<p align="center">
+<img src="/assets/img/ocean2.jpg" width="600">
+</p>
 
 <center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
 
