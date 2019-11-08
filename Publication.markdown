@@ -20,6 +20,14 @@ permalink: /Publication/
 
 <b>Zhou, J.</b> &amp; Venayagamoorthy, S. K. 2017 Numerical simulations of intrusive gravity currents interacting with a bottom-mounted obstacle in a continuously stratified ambient. <i>Environmental Fluid Mechanics</i> 17, 191-209.
 
+Fang, G., <b>Zhou, J.</b>, &amp; Zhao, L. 2013 Evaluation of harmonious development between water conservancy and economy-society in Jiangsu Province (in Chinese). <i>China Rural Water and Hydropower</i> 6, 117-120.
+
+<b>Zhou, J.</b>, Fang, G., Wen, X. &amp; Zhuang, J. 2013  Post evaluation of urban flood control planning of Nanjing City (in Chinese). <i>Journal of Economics of Water Resources</i> 31(3), 21-23.
+
+Fang, G., Luo, Q., Huang, X., Yan, K., Wen, X &amp; <b>Zhou, J.</b> 2011 On the carrying capacity of regional water resources based on ecological footprint model (in Chinese). <i>Water Resources and Power</i> 10, 12-14.
+
+Luo, Q., Fang G., Huang, X., Yan, K., Wen, X. <b>Zhou, J.</b> &amp; Zhuang, J. 2011 Utilization potential of rainwater resources in water-deficient areas of a lower river basin (in Chinese). <i>Water Resources and Power</i> 29(12), 5-7.
+
 You can find the source code for Minima at GitHub:
 [jekyll][jekyll-organization] /
 [minima](https://github.com/jekyll/minima)
