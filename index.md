@@ -9,6 +9,4 @@ layout: home
 <center>Department of Civil and Environmental Engineering</center>
 <center>University of Californa, Berkeley</center>
   
-
-
-![image-title-here](/assets/img/ocean.png){:class="img-responsive"}
+![image-title-here](/assets/img/ocean2.jpg){:class="img-responsive"}
