@@ -27,14 +27,3 @@ Fang, G., <b>Zhou, J.</b>, &amp; Zhao, L. 2013 Evaluation of harmonious developm
 Fang, G., Luo, Q., Huang, X., Yan, K., Wen, X &amp; <b>Zhou, J.</b> 2011 On the carrying capacity of regional water resources based on ecological footprint model (in Chinese). <i>Water Resources and Power</i> 10, 12-14.
 
 Luo, Q., Fang G., Huang, X., Yan, K., Wen, X. <b>Zhou, J.</b> &amp; Zhuang, J. 2011 Utilization potential of rainwater resources in water-deficient areas of a lower river basin (in Chinese). <i>Water Resources and Power</i> 29(12), 5-7.
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
