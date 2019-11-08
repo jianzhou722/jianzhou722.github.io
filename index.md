@@ -12,7 +12,7 @@ layout: home
 <br/>
 
 <p align="center">
-<img src="/assets/img/pokemon.jpg" width="300">
+<img src="/assets/img/pokemon.jpg" width="280">
 </p>
 
 <center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
