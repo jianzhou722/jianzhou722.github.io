@@ -5,15 +5,16 @@
 layout: home
 ---
 
-<center><b>Postdoctoral researcher</b></center>
-<center><b>Department of Civil and Environmental Engineering</b></center>
-<center><b>University of Californa, Berkeley</b></center>
+<center>Postdoctoral researcher</center>
+<center>Department of Civil and Environmental Engineering</center>
+<center>University of Californa, Berkeley</center>
 
 <br/>
 
 <p align="center">
-<img src="/assets/img/ocean2.jpg" width="420">
+<img src="/assets/img/ocean2.jpg" width="600">
 </p>
 
-<center><b>Research Interests: Environmental and Geophysical Fluid Dynamics</b></center>
+<center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
+
  

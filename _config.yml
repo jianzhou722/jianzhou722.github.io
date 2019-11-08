@@ -25,7 +25,7 @@ email: jianzhou722@gmail.com
 description: |
 
 # Build settings
-theme: dinky
+theme: minimal
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
