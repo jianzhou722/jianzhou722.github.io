@@ -4,6 +4,8 @@ title: Publication
 permalink: /Publication/
 ---
 
+<b>Zhou,  J. </b> &amp; Venayagamoorthy, S. K. 2020  Gravity currents propagating over and through cylinder arrays: Effect of submergence condition. <i>Environmental Fluid Mechanics</i>, in preparation.
+
 <b>Zhou,  J. </b> &amp; Venayagamoorthy, S. K. 2019 Impact of ambient stable stratification on gravity currents propagating over asubmerged canopy. <i>Journal of Fluid Mechanics</i>, submitted
 
 <b>Zhou, J.</b> &amp; Stacey, M. T. 2019 Baroclinically-driven sediment-transport pathways in estuarine channels:  2.   Parametric dependence and implications for longitudinal sediment convergence and divergence. <i>Journal of Geophysical Research Oceans</i>, submitted.
