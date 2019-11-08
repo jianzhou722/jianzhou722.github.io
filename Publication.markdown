@@ -4,6 +4,8 @@ title: Publication
 permalink: /Publication/
 ---
 
+<b>Zhou, J.</b>, Stacet, M. T., Holleman, R. C., Nuss, E. &amp; Senn, D. B. 2019   Intratidal  and  residual  dynamics  of  partially stratified estuaries with channel-shoal morphology. <i>Journal of Geophysical Research Oceans</i> in revision.
+
 <b>Zhou, J.</b> &amp; Venayagamoorthy, S. K. 2019 Near-field mean flow dynamics of a cylindrical canopy patch suspended in deep water. <i>Journal of Fluid Mechanics</i> 858, 634-655.
 
 <b>Zhou, J.</b>, Cenedese, C., Williams, T., Ball, M., Venayagamoorthy, S. K. &amp; Nokes, I. R. 2017 On the propagation of gravity currents over and through a submerged array of circular cylinders. <i>Journal of Fluid Mechanics</i> 831, 394-417.
