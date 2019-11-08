@@ -13,7 +13,6 @@ layout: home
 
 ![image-title-here](/assets/img/ocean2.jpg){:class="img-responsive"}
 
-
 <center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
 
  
