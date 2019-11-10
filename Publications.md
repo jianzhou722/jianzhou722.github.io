@@ -4,7 +4,11 @@ title: Publications
 permalink: /Publications/
 ---
 
+<b>Zhou,  J. </b> &amp; Venayagamoorthy, S. K. 2020 Wake structure of a cylindrical canopy suspended in a stably stratified environment. <i>Journal of Fluid Mechanics</i>, in preparation.
+
 <b>Zhou,  J. </b> &amp; Venayagamoorthy, S. K. 2020  Gravity currents propagating over and through cylinder arrays: Effect of submergence condition. <i>Environmental Fluid Mechanics</i>, in preparation.
+
+Zhang, Y., <b>Zhou,  J. </b> &amp; Venayagamoorthy, S. K. 2020 Influence of inlet/outlet location on hydraulic disinfection efficiency in contact tanks. <i>Journal of Americal Water Works Association</i>, nearing submission.
 
 <b>Zhou, J.</b> &amp; Stacey, M. T. 2019 Baroclinically-driven sediment-transport pathways in estuarine channels:  2.   Parametric dependence and implications for longitudinal sediment convergence and divergence. <i>Journal of Geophysical Research Oceans</i>, nearing submission.
 
