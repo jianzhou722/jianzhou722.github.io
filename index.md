@@ -12,7 +12,7 @@ layout: home
 <br/>
 
 <p align="center">
-<img src="/assets/img/ocean2.jpg" width="330">
+<img src="/assets/img/SFBay.jpg" width="330">
 </p>
 
 <center><b>Research Interests:</b> Environmental and Geophysical Fluid Dynamics</center>
